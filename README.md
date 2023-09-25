@@ -1,8 +1,6 @@
 <h1 align="center">Hello, I'm Yajima Tatsuro</h1>
 <h3 align="center">A backend engineer striving to improve my skills from Japan.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tatsurou-yajima" alt="tatsurou-yajima" /></a> </p>
-
 - 🔭 I’m currently working on [Qurebook Shares](https://shares.qurebook.com/) and [SHUFU-JOB](https://part.shufu-job.jp/)
 
 - 🌱 I’m currently learning **Flutter, Python**
