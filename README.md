@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Yajima Tatsuro</h1>
 <h3 align="center">A backend engineer striving to improve my skills from Japan.</h3>
 
-- 🔭 I’m currently working on [Qurebook Shares](https://shares.qurebook.com/) and [SHUFU-JOB](https://part.shufu-job.jp/)
+- 🔭 I’m currently working on [Shares](https://shares.qurebook.com/).
 
-- 🌱 I’m currently learning **Flutter, Python**
+- 🌱 I’m currently learning **Next.js, Python**
 
 - 📝 I regularly write articles on [https://yajimaga-tech-blog.vercel.app/](https://yajimaga-tech-blog.vercel.app/)
 
