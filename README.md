@@ -1,7 +1,7 @@
-<h1 align="center">Hello, I'm Yajima Tatsuro</h1>
-<h3 align="center">A backend engineer striving to improve my skills from Japan.</h3>
+<h1 align="center">Hello, I'm Yajima Tatsuro(矢島 達朗)</h1>
+<h3 align="center">A backend engineer from Japan.</h3>
 
-- 🔭 I’m currently working on [Shares](https://shares.qurebook.com/).
+- 🔭 I’m currently working on [Share Manager](https://sharemanager.jp/).
 
 - 🌱 I’m currently learning **Next.js, Python**
 
