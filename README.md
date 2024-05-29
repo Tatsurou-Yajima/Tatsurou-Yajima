@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **Next.js, Python**
 
-- 📝 I regularly write articles on [https://yajimaga-tech-blog.vercel.app/](https://yajimaga-tech-blog.vercel.app/)
+- 📝 I regularly write articles on [YajiMaga-TECH](https://yajima.sytes.net/)
+
+- 🎸 I'm a bass player. [YouTube](https://www.youtube.com/@yajima_bass_guitar)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
