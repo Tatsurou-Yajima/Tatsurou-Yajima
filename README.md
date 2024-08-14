@@ -1,11 +1,11 @@
 <h1 align="center">Hello, I'm Yajima Tatsuro(矢島 達朗)</h1>
-<h3 align="center">A backend engineer from Japan.</h3>
+<h3 align="center">A backend engineer living in Tokyo/Japan.</h3>
 
-- 🔭 I’m currently working on [Share Manager](https://sharemanager.jp/).
+- 🔭 I’m currently working on [DMM Boost,Inc.](https://hassyadai.notion.site/DMM-Boost-Inc-4c892540b7ef49d581e0935edd5b8f66).
 
-- 🌱 I’m currently learning **Next.js, Python**
+- 🌱 I’m currently learning **Go, program design**
 
-- 📝 I regularly write articles on [YajiMaga-TECH](https://yajima.sytes.net/)
+- 📝 I regularly write articles on [YajiMaga](https://tech-yajima.hatenablog.com/)
 
 - 🎸 I'm a bass player. [YouTube](https://www.youtube.com/@yajima_bass_guitar)
 
